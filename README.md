@@ -1,4 +1,4 @@
-# Mirko Andò TEST ADD ON
+# Mirko Andò
 
 Computer Science student with a structured, disciplined approach to software development.  
 Focused on backend systems, automation, data processing, and foundational cybersecurity.  
@@ -9,10 +9,10 @@ I value consistency, operational autonomy, and clarity — in code as in decisio
 ## Technical Skills
 
 ### Programming Languages
-- **Python** — automation, data processing, backend development  
+- **Python** — automation, data processing, backend development  (technical use)  
 - **C / C++** — procedural logic, memory management (technical–educational use)  
 - **SQL** — relational databases, normalization, complex queries  
-- **Java** — fundamentals, data processing  
+- **Java** — fundamentals, data processing, procedural logic (technical–educational use)  
 - **HTML / CSS** — web structure and styling  
 - **JavaScript** — basic DOM manipulation  
 - **PHP** — backend scripting and web automation  
