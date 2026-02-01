@@ -53,7 +53,7 @@ I value consistency, operational autonomy, and clarity — in code as in decisio
 ## Education
 
 **IT Technical Institute – Computer Science**  
-Marconi–Mangano, Catania (2021–2027)
+- Marconi–Mangano, Catania (2021–2027)
 **Talked Lenguages:**
 Italian C2
 English B2
