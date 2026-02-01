@@ -95,6 +95,6 @@ I aim to build systems — technical and personal — that remain stable under p
 ---
 
 ## Contact
-- **Phone Number: ** +39 3296318067
+- **Phone Number:** +39 3296318067
 - **Email:** mirko.ando2008@gmail.com  
 - **Certifications:** https://www.credly.com/users/mirko-ando
