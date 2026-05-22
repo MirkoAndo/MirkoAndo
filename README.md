@@ -1,42 +1,93 @@
-# Mirko Andò
+# Hi, I'm Mirko Andò 👋
 
-Computer Science student with a structured, disciplined approach to software development.  
-Focused on backend systems, automation, data processing, and foundational cybersecurity.  
-I value consistency, operational autonomy, and clarity — in code as in decision-making.
+### Backend • Automation • Systems • Cybersecurity
+
+Computer Science student focused on building **stable backend systems**, **automation tools**, and **security-oriented technical solutions**.
+
+I enjoy creating maintainable systems, improving workflows through automation, and understanding how infrastructure works under the hood.
+
+🌍 **Portfolio:** https://mirkoandoportfolio.netlify.app/  
+🏅 **Certifications:** https://www.credly.com/users/mirko-ando  
+💻 **Repositories:** https://github.com/MirkoAndo
 
 ---
 
-## Technical Skills
+## ⚡ About Me
 
-### Programming Languages
-- **Python** — automation, data processing, backend development  (technical use)  
-- **C / C++** — procedural logic, memory management (technical–educational use)  
-- **SQL** — relational databases, normalization
-- **Java** — fundamentals, data processing, procedural logic (technical–educational use)  
-- **HTML / CSS** — web structure and styling  
-- **JavaScript** — basic DOM manipulation  
-- **PHP** — backend scripting and web automation  
+- 🎓 Computer Science Student — ITI Marconi–Mangano (Catania)
+- 🐍 Strong focus on **Python & Backend Development**
+- 🛠️ Interested in **Automation, Linux, Systems & Networking**
+- 🛡️ Security-oriented mindset (defensive cybersecurity)
+- 📈 Constantly improving technical English and system design skills
 
-### Frameworks & Libraries
-- **Flask** — lightweight backend development  
-- **Pandas, NumPy** — data analysis and manipulation  
-- **Matplotlib** — data visualization  
+---
 
-### Databases
-- **SQLite**
-- **MySQL / phpMyAdmin GUI**
+## 🧰 Tech Stack
 
-### Tools & Environments
-- **Git & GitHub** — version control and project management  
-- **VS Code, NetBeans, DevCpp** — development environments  
-- **Windows Batch** — scripting and system automation  
-- **Bash (Linux)** — basic scripting and system operations  
+### Languages
+![Python](https://img.shields.io/badge/Python-Advanced-blue)
+![Java](https://img.shields.io/badge/Java-Intermediate-orange)
+![C](https://img.shields.io/badge/C%20%2F%20C++-Intermediate-lightgrey)
+![HTML](https://img.shields.io/badge/HTML%20%2F%20CSS-Advanced-red)
+![JavaScript](https://img.shields.io/badge/JavaScript-Basic-yellow)
+![SQL](https://img.shields.io/badge/SQL-Basic-blue)
 
-### Operating Systems
-- Windows  / 9x, 7, 8, 10, 11
-- Windows Server / 2019, 2022
-- Linux (Ubuntu / Debian / Mint)
+### Systems & Tools
+![Linux](https://img.shields.io/badge/Linux-Learning-black)
+![Windows](https://img.shields.io/badge/Windows-Advanced-blue)
+![Git](https://img.shields.io/badge/Git-Intermediate-orange)
+![Networking](https://img.shields.io/badge/Networking-Cisco-informational)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Defensive-success)
 
+---
+
+## 🏆 Certifications
+
+Cisco Networking Academy:
+
+- Python Essentials 1 & 2
+- Network Support and Security
+- Data Analytics Essentials
+- Network Defense
+- Cyber Threat Management
+- Networking Basics
+
+📜 View credentials:  
+https://www.credly.com/users/mirko-ando
+
+---
+
+## 🎯 Current Focus
+
+```python
+current_focus = {
+    "backend": "Python & scalable architecture",
+    "systems": "Linux environments",
+    "security": "Defensive cybersecurity",
+    "automation": "Workflow optimization",
+    "language": "Technical English → C1"
+}
+```
+
+---
+
+## 📫 Contact
+
+📧 **Personal Email:** mirko.ando.dev@gmail.com
+
+📧 **Email Of Work:** mirko.ando.dev@gmail.com
+
+📞 **Phone Number:** +39 3296318067
+
+🌐 **Portfolio:**  
+https://mirkoandoportfolio.netlify.app/
+
+💻 **GitHub:**  
+https://github.com/MirkoAndo
+
+---
+
+> "Build systems that stay stable even under pressure."
 ---
 
 ## Systems & Security Foundations
@@ -59,44 +110,3 @@ I value consistency, operational autonomy, and clarity — in code as in decisio
 - Italian C2
 - English B2
 - Spanish A2
----
-
-## Certifications (Selected)
-
-- Python Essentials 1 & 2  
-- Data Analytics Essentials  
-- Introduction to Data Science  
-- Cisco Cybersecurity Path (Intro, Network Defense, Endpoint Security, Ethical Hacker)  
-- Networking Basics & IT Fundamentals  
-- English for IT  
-
-Full list available on Credly.
-
----
-
-## Current Focus
-
-- Building solid backend and automation projects  
-- Improving code structure, readability, and reliability  
-- Strengthening technical English (C1 target)  
-- Developing long-term projects with clear scope and documentation  
-- Learning through consistency rather than speed  
-
----
-
-## Principles
-
-- Discipline over motivation  
-- Clarity over noise  
-- Responsibility over shortcuts  
-
-I aim to build systems — technical and personal — that remain stable under pressure.
-
----
-
-## Contact
-- **Phone Number:** +39 3296318067
-- **Email:** mirko.ando2008@gmail.com  
-- **Certifications:** https://www.credly.com/users/mirko-ando
-- **Portfolio:**
-https://mirkoandoportfolio.netlify.app/
