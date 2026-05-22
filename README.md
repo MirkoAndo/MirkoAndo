@@ -62,7 +62,7 @@ https://www.credly.com/users/mirko-ando
 ```python
 current_focus = {
     "backend": "Python & scalable architecture",
-    "systems": "Linux environments",
+    "systems": "Windows environments",
     "security": "Defensive cybersecurity",
     "automation": "Workflow optimization",
     "language": "Technical English → C1"
